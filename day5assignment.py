@@ -28,7 +28,7 @@ print("Current working directory:", os.getcwd())
 #df = pd.read_csv('./IMDB_Dataset.csv')  # Update with the correct path to your dataset
 # Ensure the correct path to your dataset
  
-dataset_path = './Users/sajaykumr/IMDB_Dataset.csv'
+dataset_path = './Users/jagadesh/IMDB_Dataset.csv'
 # List contents of the current directory
 directory_contents = os.listdir('.')
 print("Contents of the current directory:")
